@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+form {
+    width: 600px;
+    margin: 30px auto;
+    padding: 10px;
+    border: 1px solid black;
+    box-shadow: 0 0 15px 2px lightblue;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+textarea {
+    display: block;
+    box-shadow: 0 0 15px 1px lightblue;
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 5px;
+    box-shadow: 0 0 5px 2px lightblue;
+}
+
+p {
+    text-align: center;
+}
+
+.error {
+    color: red;
+    font-style: oblique;
+}
+
+.box {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
