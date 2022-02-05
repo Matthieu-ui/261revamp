@@ -105,6 +105,23 @@ nav {
 }
 
 
+/* footer
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.foot {
+    text-align: center;
+    line-height: .5rem;
+    border-top: #0000003b 1px solid;
+    padding: 1rem;
+}
+
+.social-links {
+    list-style: none;
+    display: inline-flex;
+    text-align: center;
+}
+
+
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
