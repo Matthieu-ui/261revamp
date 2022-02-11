@@ -23,20 +23,20 @@
         <div class="row">
 
             <!-- -------------------------------- logo --------------------------------- -->
-            <div class="one column" style="margin-top: 5%"><a href="../index.php"><img class="logo-img"
+            <div class="one column" style="margin-top: 5%"><a href="dailyhome.php"><img class="logo-img"
                         src="images/mlogo.png" alt="m - logo"></a>
             </div>
             <!-- --------------------------------- nav --------------------------------- -->
             <nav class="eleven columns" style="margin-top: 5%">
 
                 <ul class="nav-links">
-                    <li class="nav-item"><a href="index.php">Home</a></li>
-                    <li class="nav-item"><a href="website/daily/dailyhome.php">Switch</a></li>
-                    <li class="nav-item"><a href="#">Troubleshooting</a></li>
-                    <li class="nav-item"><a href="calculator.php">Calculator</a></li>
-                    <li class="nav-item"><a href="#">Email</a></li>
+                    <li class="nav-item"><a href="dailyhome.php">Home</a></li>
+                    <li class="nav-item"><a href="switch.php">Daily</a></li>
+                    <li class="nav-item"><a href="dailyAbout.php">About</a></li>
+                    <li class="nav-item"><a href="#">PHP</a></li>
+                    <li class="nav-item"><a href="#">Contact</a></li>
                     <li class="nav-item"><a href="#">Gallery</a></li>
-                    <li class="nav-item"><a href="#">Database</a></li>
+                  
                 </ul>
             </nav>
         </div>

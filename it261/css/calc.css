@@ -1,0 +1,14 @@
+.travel-calculator {
+    background-color: #eee;
+    padding: 2rem;
+    border: 1px solid #00000080;
+    box-shadow: inset #999 0px 0px 3px 3px;
+}
+
+.results {
+    float: right;
+    width: fit-content;
+    display: inline-block;
+    margin: auto;
+    padding: 34px;
+}

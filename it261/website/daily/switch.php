@@ -1,4 +1,4 @@
-<?php include "includes/header.php" ?>
+<?php include "includes/dailyheader.php" ?>
     
 
             <div class="container">
@@ -15,4 +15,4 @@
 
 
 
-<?php include "includes/footer.php" ?>
+<?php include "includes/dailyfooter.php" ?>
