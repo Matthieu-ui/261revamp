@@ -1,4 +1,6 @@
 
+
+
 <footer class="full column">
     <div class="foot">
         <ul class="social-links">
@@ -21,9 +23,6 @@
     </div>
 </footer>
 
-</div>
-</main>
-</body>
 
 
 

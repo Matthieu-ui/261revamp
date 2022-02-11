@@ -101,7 +101,7 @@
     <div class="container">
         <div class="row">
             <aside class="one-half column">
-                <h4><b>Results</b></h4>
+                <h4 style="text-align: center;" ><b>Results</b><br>...</h4>
                 <?php echo $result ?>
             </aside>
 

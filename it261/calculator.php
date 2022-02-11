@@ -1,6 +1,6 @@
 <?php include 'includes/header.php'?>
 
-    <main>
+    <div>
         <div class="container">
             <div class="row">
                 <section class="full column" style="margin-top: 5%; margin-bottom: 5%;text-align: center;">
@@ -15,7 +15,10 @@
         <?php include'includes/travelcalc.php'?>
 
         <!-- -------------------------------- main --------------------------------- -->
-    </main>
+</div>
+</div>
+
+
     
 
 <?php include'includes/footer.php'?>
