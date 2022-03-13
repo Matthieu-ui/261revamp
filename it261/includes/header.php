@@ -11,7 +11,7 @@
     <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/skeleton.css">
-    <link rel="stylesheet" href="css/"
+    <link rel="stylesheet" href="css/">
     <link rel="icon" type="image/png" href="images/mlogo.png">
     <script src="https://use.fontawesome.com/9f86ea7ef4.js"></script>
 </head>

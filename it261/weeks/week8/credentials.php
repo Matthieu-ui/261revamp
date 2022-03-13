@@ -5,7 +5,7 @@
 
 define('DB_NAME', 'mattsdb2022');
 define('DB_USER', 'mattfelker11');
-define('DB_PASSWORD', '*********');
+define('DB_PASSWORD', 'newdog808');
 define('DB_HOST', 'mattsdb.matthieufelker.io');
 
 ?>

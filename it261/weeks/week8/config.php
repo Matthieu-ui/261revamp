@@ -3,7 +3,7 @@
 ob_start();  // prevents header errors before reading the whole page!
 define('DEBUG', 'TRUE');  // We want to see our errors
 
-include('credentials.php');
+include('./credentials.php');
 
  
 
@@ -18,7 +18,7 @@ include('credentials.php');
  
 
  
-
+ 
  
 
 function myError($myFile, $myLine, $errorMsg)
