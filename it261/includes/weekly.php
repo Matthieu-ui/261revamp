@@ -31,8 +31,29 @@
                     </ul>
                     <h5>Week 5</h5>
                     <ul>
+                        <li><a href="weeks/week5/currency.php">Currency - 1</a></li>
+                        <li><a href="weeks/week5/currency2.php">Currency - 2</a></li>
+                        <li><a href="weeks/week5/currency3.php" >Currency - 3</a></li>
+                        <li><a href="weeks/week5/currency4.php">Currency - 4</a></li>
+                        <li><a href="weeks/week5/null.php">NULL</a></li>
+                    </ul>
+                    <h5>Week 6</h5>
+                    <ul>
+                        <li><a href="weeks/week6/form.php">Form - 1</a></li>
+                        <li><a href="weeks/week6/functions.php">functions</a></li>
+                        <li><a href="weeks/week6/implode.php">Implode</a></li>
+                    </ul>
+                    <h5>Week 7</h5>
+                    <ul>
+                        <li><a href="weeks/week7/pictures.php">Pictures</a></li>
+                        <li><a href="weeks/week7/rand.php">Random</a></li>
+                        <li><a href="weeks/week7/strings.php">Strings</a></li>
+                    </ul>
+                    <h5>Week 8</h5>
+                    <ul>
                         <li><a href="weeks/week5/currency.php">Currency</a></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
+                        <li><a href="weeks/week5/currency2.php">Currency - 2</a></li>
+                        <li><a href="weeks/week5/currency3.php" >Currency - 3</a></li>
+                        <li><a href="weeks/week5/currency4.php">Currency - 4</a></li>
+                        <li><a href="weeks/week5/null.php">NULL</a></li>
                     </ul>
