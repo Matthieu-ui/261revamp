@@ -17,23 +17,21 @@
 
 <body>
 
-    <!-- Primary Page Layout
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
     <header class="container">
         <div class="row">
 
-            <!-- -------------------------------- logo --------------------------------- -->
             <div class="one column" style="margin-top: 5%"><a href="dailyhome.php"><img class="logo-img"
                         src="images/mlogo.png" alt="m - logo"></a>
             </div>
-            <!-- --------------------------------- nav --------------------------------- -->
+  
             <nav class="eleven columns" style="margin-top: 5%">
 
                 <ul class="nav-links">
                     <li class="nav-item"><a href="dailyhome.php">Home</a></li>
                     <li class="nav-item"><a href="switch.php">Daily</a></li>
                     <li class="nav-item"><a href="dailyAbout.php">About</a></li>
-                    <li class="nav-item"><a href="#">PHP</a></li>
+                    <li class="nav-item"><a href="people.php">People</a></li>
                     <li class="nav-item"><a href="#">Contact</a></li>
                     <li class="nav-item"><a href="#">Gallery</a></li>
                   

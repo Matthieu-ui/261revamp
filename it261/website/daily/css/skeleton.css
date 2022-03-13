@@ -25,10 +25,12 @@
 - Media Queries
 */
 
-
-/* nav
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
+.adminSnip img{
+    width: 500px;;
+}
+.dbPhoto{
+    width: 400px;
+}
 nav {
     width: 100%;
     padding-left: 30px;

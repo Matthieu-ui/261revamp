@@ -5,20 +5,15 @@ define('DEBUG', 'TRUE');  // We want to see our errors
 
 include('./credentials.php');
 
- 
+$people_id = '';
+$first_name = '';
+$last_name = '';
+$birth_date = '';
+$occupation = '';
+$email = '';
+$errors = array();
 
- 
 
- 
-
- 
-
- 
-
- 
-
- 
- 
  
 
 function myError($myFile, $myLine, $errorMsg)
