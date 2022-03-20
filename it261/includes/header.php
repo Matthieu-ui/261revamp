@@ -32,7 +32,7 @@
 
                 <ul class="nav-links">
                     <li class="nav-item"><a href="index.php">Home</a></li>
-                    <li class="nav-item"><a href="website/daily/dailyhome.php">Switch</a></li>
+                    <li class="nav-item"><a href="website/dailyhome.php">Switch</a></li>
                     <li class="nav-item"><a href="#">Troubleshooting</a></li>
                     <li class="nav-item"><a href="calculator.php">Calculator</a></li>
                     <li class="nav-item"><a href="#">Email</a></li>

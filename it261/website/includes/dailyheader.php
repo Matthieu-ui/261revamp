@@ -32,8 +32,8 @@
                     <li class="nav-item"><a href="switch.php">Daily</a></li>
                     <li class="nav-item"><a href="dailyAbout.php">About</a></li>
                     <li class="nav-item"><a href="people.php">People</a></li>
-                    <li class="nav-item"><a href="#">Contact</a></li>
-                    <li class="nav-item"><a href="#">Gallery</a></li>
+                    <li class="nav-item"><a href="contact.php">Contact</a></li>
+                    <li class="nav-item"><a href="gallery.php">Gallery</a></li>
                   
                 </ul>
             </nav>

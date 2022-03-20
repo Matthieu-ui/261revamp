@@ -24,7 +24,9 @@
 - Clearing
 - Media Queries
 */
-
+.tableimg{
+    width: 200px;
+}
 .adminSnip img{
     width: 500px;;
 }

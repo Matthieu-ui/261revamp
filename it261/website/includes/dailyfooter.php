@@ -1,4 +1,6 @@
-            <footer class="full column">
+<div class="container">
+    <div class="row">
+    <footer class="full column">
                 <div class="foot">
                     <ul class="social-links">
                         <li class="socialFa"><a href="#" title=""><span class="fa fa-github"></span></a>
@@ -20,6 +22,9 @@
                 </div>
             </footer>
 
+    </div>
+</div>
+           
 
 
 

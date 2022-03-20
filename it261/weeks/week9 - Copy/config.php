@@ -1,20 +1,19 @@
-<?php
-//config
+<?php //config file
+
 ob_start();  // prevents header errors before reading the whole page!
 define('DEBUG', 'TRUE');  // We want to see our errors
 
-include('./credentials.php');
+include('credentials.php');
 
-$people_id = '';
+// initialize variables
 $first_name = '';
 $last_name = '';
-$birth_date = '';
-$occupation = '';
 $email = '';
+$username = '';
+$password = '';
+$success = 'You have sucessfully logged on!';
 $errors = array();
 
-
- 
 
 function myError($myFile, $myLine, $errorMsg)
 {
@@ -30,5 +29,6 @@ if(defined('DEBUG') && DEBUG)
     
     
 }
+
 
 ?>
