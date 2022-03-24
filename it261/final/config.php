@@ -54,11 +54,11 @@ switch(THIS_PAGE) {
     case 'switch.php':
     $title = 'Switch page of final website';
     $body = 'daily inner';
-    $headline = 'Daily Featured Seattle Homes';
+    $headline = 'Incredible homes daily!';
     break;
 
     case 'house.php':
-    $title = 'House listings';
+    $title = 'Seattle property listings';
     $body = 'product inner';
     $headline = 'Welcome to my product page of final website';
     $house1 = 'images/houses/house1.jpg';
