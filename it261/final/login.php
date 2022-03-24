@@ -8,7 +8,7 @@ include('includes/header-form.php')
 <div class="container">
     <div class="row">
         <div class="full column">
-            <div id="wrapper">
+            <div class="userLogin">
                 <h1 class="center">Login</h1>
                 <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>" method="post">
                     <fieldset>
@@ -37,10 +37,8 @@ include('includes/header-form.php')
                 <span class="block"><a href="register.php">Register here!</a></span>
             </div>
             <!--close wrapper -->
+            <?php
+include('includes/footer.php');?>
         </div>
     </div>
 </div>
-
-
-<?php
-include('includes/footer.php');

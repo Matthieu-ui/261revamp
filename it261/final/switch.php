@@ -9,27 +9,28 @@ include('includes/header.php'); ?>
     <main>  
         <h1 class="switch_page_header"><?php echo $headline; ?></h1>
         <hr>
-        <div class="recipe">  
-            <h1><?php echo $recipe_name;?></h1>
+        <div class="house">  
+            <h1><?php echo $house_address;?></h1>
             <hr>
-            <h2>Ingredients</h2>
-            <?php echo $ingredients; ?>
-            <h2>Instructions</h2>
-            <?php echo $instructions; ?>
+            <h2>About this property</h2>
+            <?php echo $about; ?>
+            <h2>Coordinates</h2>
+            <?php echo $coordinates; ?>
+            <br>
         </div>
     </main>
 
     <aside>
-        <img id="recipe_pic" src="images/<?php echo $pic; ?>" alt="<?php echo $alt; ?>">
-        <h2 class="recipe_links">Links to all the Recipes</h2>
-        <ul id="daily_recipe">
-            <li><a href="switch.php?today=Monday">Chicken of the Woods Salad</a></li>
-            <li><a href="switch.php?today=Tuesday">Hedgehog Meatloaf</a></li>
-            <li><a href="switch.php?today=Wednesday">Marinated Honey Mushrooms</a></li>
-            <li><a href="switch.php?today=Thursday">Wild Mushroom Chowder</a></li>
-            <li><a href="switch.php?today=Friday">Candy Cap Tres Leches</a></li>
-            <li><a href="switch.php?today=Saturday">Puffball Gratin</a></li>
-            <li><a href="switch.php?today=Sunday">Morels in Cream</a></li>
+        <img class="housePic" src="images/incredibleHomes<?php echo $pic; ?>" alt="<?php echo $alt; ?>">
+        <h2 class="house_links">Links to all the properties</h2>
+        <ul id="daily_house">
+            <li><a href="switch.php?today=Monday">Pole House</a></li>
+            <li><a href="switch.php?today=Tuesday">The Cliff House</a></li>
+            <li><a href="switch.php?today=Wednesday">Belle Grove Farm House</a></li>
+            <li><a href="switch.php?today=Thursday">Oceanside Retreat</a></li>
+            <li><a href="switch.php?today=Friday">Ktima House</a></li>
+            <li><a href="switch.php?today=Saturday">Joshua Tree</a></li>
+            <li><a href="switch.php?today=Sunday">Sun Valley Starship</a></li>
         </ul>
         
     </aside>

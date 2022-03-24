@@ -9,14 +9,14 @@
 <main>
     <h1><?php echo $headline; ?></h1>
        
-    <p>We recieved your information, you will be hearing from us soon. Thank you for your interest in Sporadic Mushrooms.</p>
+    <p>We recieved your information, you will be hearing from us soon. Thank you for sharing with us.</p>
     
     
 </main>
 
 <aside>
 
-<img src="images/twinmushrooms.jpg" alt="mushrooms for lake Isabella">
+<p>Thank you!</p>
 
 </aside>
 </div> <!--close wrapper-->
